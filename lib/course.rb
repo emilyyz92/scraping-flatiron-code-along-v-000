@@ -15,4 +15,4 @@
    @@all.clear
  end
 
- end
+end
